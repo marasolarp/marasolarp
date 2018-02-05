@@ -12,5 +12,5 @@ Fecha de Entregas:
 Paleta de colores:
 --------------------------
 1. #393232, #4D4545, #8D6262, #ED8D8D
-2 <img src="assets/img/paleta 2.png" alt="">
+2. <img src="assets/img/paleta 2.png" alt="">
 3. <img src="assets/img/patela 3.png" alt="">
